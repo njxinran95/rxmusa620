@@ -3,11 +3,11 @@ title: "Example: Embedding Altair Images"
 date: 2019-11-24
 published: true
 tags: [dataviz, altair, hvplot, holoviews]
-excerpt: "This is an example blog post"
+excerpt: "Embedding interactive charts on static pages using Jekyll."
+altair-loader:
+  altair-chart-3: "charts/gapminder.html"
 toc: true
 toc_sticky: true
-altair-loader:
-  altair-chart-1: "charts/gapminder.html"
 ---
 
 # Section 5
@@ -16,7 +16,7 @@ This is an example post. The posts are written in markdown.
 
 ## Gapminder
 Gapminder 666
-<div id="altair-chart-1"></div>
+<div id="altair-chart-3"></div>
 
 ## Notes
 
