@@ -5,7 +5,7 @@ published: true
 tags: [dataviz, altair, hvplot, holoviews]
 excerpt: "Embedding interactive charts on static pages using Jekyll."
 altair-loader:
-  altair-chart-3: "charts/gapminder.html"
+  altair-chart-1: "charts/gapminder.json"
 toc: true
 toc_sticky: true
 ---
@@ -15,8 +15,8 @@ toc_sticky: true
 This is an example post. The posts are written in markdown.
 
 ## Gapminder
-Gapminder 666
-<div id="altair-chart-3"></div>
+Gapminder example
+<div id="altair-chart-1"></div>
 
 ## Notes
 
