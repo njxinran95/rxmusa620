@@ -109,7 +109,7 @@ author:
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Master of City Planning student at University of Pennsylvania"
   location: "Philadelphia, US"
-  email: "njxinran@design.upenn.edu"
+  email:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -129,6 +129,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: "fas fa-fw fa-linkedin"
+      url: "www.linkedin.com/in/ran-xin-chn95"
 
 # Site Footer
 footer:
